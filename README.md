@@ -1,1 +1,1 @@
-# Smash-bricks
+# Smash-bricks-simple
